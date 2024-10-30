@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Catalyst Connect 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-23 11:16-0500\n"
+"PO-Revision-Date: 2012-08-23 11:17-0500\n"
+"Last-Translator: The Catalyst Team <info@catalysttheme.com>\n"
+"Language-Team: The Catalyst Team <info@catalysttheme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: catalyst-connect.php:150
+#, php-format
+msgid "Catalyst Connect has been automatically deactivated because the file <strong>%s</strong> is missing. Please reinstall the plugin and reactivate."
+msgstr ""
+
+#: inc/frontend.php:120
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: inc/frontend.php:165
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: inc/options_page.php:8
+#: inc/options_page.php:13
+msgid "Catalyst Connect"
+msgstr ""
+
+#: inc/options_page.php:13
+msgid "The"
+msgstr ""
+
+#: inc/options_page.php:13
+msgid "plugin executes the necessary functions to ensure proper Catalyst integration with the <strong>BuddyPress</strong>, <strong>BBPress</strong> and <strong>WooCommerce</strong> Plugins."
+msgstr ""
+
+#: inc/options_page.php:25
+#: inc/options_page.php:112
+#: inc/options_page.php:159
+msgid "ACTIVE"
+msgstr ""
+
+#: inc/options_page.php:25
+#: inc/options_page.php:112
+#: inc/options_page.php:159
+msgid "inactive"
+msgstr ""
+
+#: inc/options_page.php:29
+msgid "The BuddyPress Plugin is currently..."
+msgstr ""
+
+#: inc/options_page.php:36
+msgid "Disable the custom BuddyPress CSS code added by the Catalyst Connect Plugin"
+msgstr ""
+
+#: inc/options_page.php:41
+msgid "To manually add this custom BuddyPress CSS code just Copy and Paste"
+msgstr ""
+
+#: inc/options_page.php:41
+#: inc/options_page.php:128
+#: inc/options_page.php:184
+msgid "[THIS CSS CODE]"
+msgstr ""
+
+#: inc/options_page.php:41
+#: inc/options_page.php:128
+#: inc/options_page.php:184
+msgid "into your Advacned Options > Custom CSS."
+msgstr ""
+
+#: inc/options_page.php:109
+msgid "Disable Catalyst Connect for BuddyPress (this \"turns off\" the BuddyPress compatibility functions being applied by this Plugin)"
+msgstr ""
+
+#: inc/options_page.php:116
+msgid "The BBPress Plugin is currently..."
+msgstr ""
+
+#: inc/options_page.php:123
+msgid "Disable the custom BBPress CSS code added by the Catalyst Connect Plugin"
+msgstr ""
+
+#: inc/options_page.php:128
+msgid "To manually add this custom BBPress CSS code just Copy and Paste"
+msgstr ""
+
+#: inc/options_page.php:156
+msgid "Disable Catalyst Connect for BBPress (this \"turns off\" the BBPress compatibility functions being applied by this Plugin)"
+msgstr ""
+
+#: inc/options_page.php:163
+msgid "The WooCommerce Plugin is currently..."
+msgstr ""
+
+#: inc/options_page.php:170
+msgid "Use the Catalyst Breadcrumbs"
+msgstr ""
+
+#: inc/options_page.php:173
+msgid "Use the WooCommerce Breadcrumbs"
+msgstr ""
+
+#: inc/options_page.php:179
+msgid "Disable the custom WooCommerce CSS code added by the Catalyst Connect Plugin"
+msgstr ""
+
+#: inc/options_page.php:184
+msgid "To manually add this custom WooCommerce CSS code just Copy and Paste"
+msgstr ""
+
+#: inc/options_page.php:206
+msgid "Disable Catalyst Connect for WooCommerce (this \"turns off\" the WooCommerce compatibility functions being applied by this Plugin)"
+msgstr ""
+
+#: inc/options_page.php:212
+msgid "Save Changes"
+msgstr ""
+

@@ -1,0 +1,29 @@
+.buddypress-is-active,
+.bbpress-is-active,
+.woocommerce-is-active {
+	margin: 0;
+	color: #111111;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.buddypress-not-active,
+.bbpress-not-active,
+.woocommerce-not-active {
+	margin: 0;
+	color: #888888;
+	font-style: italic;
+}
+
+.catalyst-connect-css-examples-show {
+	color: #21759B;
+	cursor: pointer;
+}
+
+.catalyst-connect-scrollbox {
+	width: 70%;
+	height: 170px;
+	border: 1px solid #DFDFDF;
+	padding: 10px !important;
+	overflow: scroll;
+}
